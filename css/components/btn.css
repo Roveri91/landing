@@ -1,0 +1,19 @@
+.btn-apply {
+    color: whitesmoke;
+    background-color: rgb(219, 170, 106);
+    padding: 10px 24px;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.btn-apply:hover {
+    color: rgb(219, 170, 106);
+    background-color: whitesmoke;
+}
+
+.btn-apply:active {
+    color: rgb(219, 170, 106);
+    background-color: rgba(245, 245, 245, 0.705);
+}

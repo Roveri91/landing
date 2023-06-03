@@ -1,0 +1,28 @@
+/* CARD DESCRIPTION */
+
+.card-description {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+/* CARD STEP */
+
+.card-step {
+    border: 1px solid rgb(219, 170, 106);
+    border-radius: 6px;
+    padding: 24px;
+    flex: 1;
+    margin: 25px;
+    display: grid;
+    justify-items: center;
+    box-shadow: 4px 2px 2px 2px rgb(219, 170, 106);
+}
+
+.card-step h3 {
+    font-size: 25px;
+}
+
+.card-step p {
+    font-size: 12px;
+}

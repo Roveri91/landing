@@ -1,0 +1,21 @@
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer p {
+    color: rgba(219, 170, 106, 0.247);
+}
+
+.footer i {
+    font-size: 40px;
+    margin: 15px;
+    transition: 1s;
+    color: rgb(219, 170, 106)
+}
+
+.footer i:hover {
+    color: rgba(219, 170, 106, 0.247);
+    transform: scale(2);
+}
